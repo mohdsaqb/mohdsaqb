@@ -89,15 +89,6 @@ reach_me: "via the links below ↓"
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohdsaqb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
 
 ## 🌐 Let's Connect
 
@@ -109,7 +100,6 @@ reach_me: "via the links below ↓"
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohdsaqb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 
 <br/>
 
