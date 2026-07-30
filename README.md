@@ -1,5 +1,5 @@
 <!--
-**saqibbbbb/saqibbbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohdsaqb/mohdsaqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <div align="center">
@@ -74,16 +74,16 @@ reach_me: "via the links below ↓"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saqibbbbb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibbbbb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohdsaqb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaqb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibbbbb&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsaqb&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqibbbbb&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdsaqb&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -93,7 +93,7 @@ reach_me: "via the links below ↓"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saqibbbbb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohdsaqb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -109,7 +109,7 @@ reach_me: "via the links below ↓"
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=saqibbbbb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=mohdsaqb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 
 <br/>
 
